@@ -22,6 +22,38 @@ Users withdraw time from a daily budget to access distracting apps. When time ru
 - Duke Startup Showcase 3rd Place
 - DVG IGNITE Competition 4th Place
 
+## Product Display
+
+### Wristband Render
+
+<p align="center">
+  <img src="rendered-product-pic.jpg" width="600">
+</p>
+
+### App Screenshots
+
+<p align="center">
+  <img src="IMG_5725.PNG" width="190">
+  <img src="IMG_5724.PNG" width="190">
+  <img src="IMG_5723.PNG" width="190">
+  <img src="IMG_5726.PNG" width="190">
+</p>
+
+### Real-Life Product Use
+
+<p align="center">
+  <img src="IMG_2651.jpeg" width="220">
+  <img src="IMG_3960.jpeg" width="220">
+  <img src="IMG_4739.jpeg" width="220">
+  <img src="IMG_4660.jpeg" width="220">
+</p>
+
+### Showcase Win
+
+<p align="center">
+  <img src="startup-showcase-win.jpg" width="700">
+</p>
+
 ## Current Focus
 
 - AI-powered personalization
