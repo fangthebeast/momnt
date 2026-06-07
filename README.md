@@ -48,10 +48,11 @@ Users withdraw time from a daily budget to access distracting apps. When time ru
   <img src="IMG_4660.jpeg" width="220">
 </p>
 
-### Showcase Win
+### Startup Competition Wins / Recognitions
 
 <p align="center">
-  <img src="startup-showcase-win.jpg" width="700">
+  <img src="startup-showcase-win.jpg" width="380">
+  <img src="ignite-win.png" width="380">
 </p>
 
 ## Current Focus
